@@ -1,4 +1,4 @@
-var FIREBASE_URL = 'https://c9-auth-demo.firebaseio.com';
+var FIREBASE_URL = 'https://c-9authdemo.firebaseio.com/';
 var fb = new Firebase(FIREBASE_URL);
 var onLoggedOut = $('.onLoggedOut');
 var onLoggedIn = $('.onLoggedIn');
